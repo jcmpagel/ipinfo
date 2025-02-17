@@ -1,2 +1,2 @@
 # ipinfo
-![Visitor Info](https://your-cloudflare-worker-url.workers.dev/)
+![Visitor Info](https://githubinsight.jcmpagel.workers.dev/)
